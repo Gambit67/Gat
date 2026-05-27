@@ -1,7 +1,7 @@
 
 
 ```markdown
-# gat 🐱
+# gat 
 
 A cat clone with syntax highlighting. Lists files and directories
 ![Listing directory contents](assets/directory-contents.png)
